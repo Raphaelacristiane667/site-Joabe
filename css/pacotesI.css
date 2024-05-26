@@ -1,0 +1,45 @@
+a{
+    color: orangered;
+    text-decoration: none; 
+}
+a:active{
+    color: #015cb8;
+}
+.cor{
+    text-decoration: none;
+    color: orange;
+}
+.t{
+    color: orangered;
+    font-size: 3em;
+    text-align: justify;
+}
+.c{
+    color: orange;
+    font-size: 2em;
+}
+.g{
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+    text-align: justify;
+    padding-right: 2em;
+}
+.par{
+    color: orangered;
+    font-size: 1.8em;
+    text-align: justify;
+    padding-right: 2em;
+}
+.par:active{
+    color: #015cb8;
+    font-size: 1.8em;
+    text-align: justify;
+    padding-right: 2em;
+}
+.textpar{
+    color: rgb(0, 0, 0);
+    font-size: 1.8em;
+    text-align: justify;
+    padding-right: 2em;
+}
+
